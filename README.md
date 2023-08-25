@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Ali Asadolahzadeh
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me:
 - you can send me email: Amirasadzadeh2021@gmail.com
